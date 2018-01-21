@@ -1,0 +1,4 @@
+seqList = []
+
+lastAnswer = 0
+
